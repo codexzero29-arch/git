@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh 
 #
 # Test Git in parallel
 #
